@@ -1,0 +1,20 @@
+.button{
+    color: white;
+    background-color: rgb(92, 92, 236);
+    margin-top: 10px;
+    border-radius: 5px ;
+    margin-left:0px;
+    margin-top:10px;
+}
+.about-page{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 150px;
+
+}
+#icons{
+    cursor: pointer;
+}
